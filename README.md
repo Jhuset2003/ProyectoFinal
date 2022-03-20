@@ -21,6 +21,5 @@ Se inicio descargando la biblioteca en un entorno llammado venv, luego de esto s
 ![muestraGame](https://github.com/Jhuset2003/ProyectoFinal/blob/main/IMG/Captura%20de%20pantalla%20(9).png)
 #
 ![muestraCodigoCarpetas](https://github.com/Jhuset2003/ProyectoFinal/blob/main/IMG/Captura%20de%20pantalla%20(10).png)
-#
-![muestraGame](/IMG/MuesGame.png)
+
 
